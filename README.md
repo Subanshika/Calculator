@@ -1,2 +1,2 @@
 # Calculator
-https://shivam9024.github.io/Calculator/
+https://github.com/Subanshika/Calculator.git
